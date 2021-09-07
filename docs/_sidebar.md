@@ -1,3 +1,4 @@
 * [首页](/)
-* [Vue使用文档](vue-guide.md)
-* [Java内存模型](Java内存模型.md)
+* [Vue使用指南](useage/vue-useage.md)
+* [Java内存模型](useage/java-memory.md)
+* [SpringBoot](useage/springboot.md)
